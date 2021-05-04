@@ -1,0 +1,22 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Nemeus Cards",
+		"_postman_id": "95e09687-dd5d-3438-641c-c3f3d8f91f73",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get Nemeus Cards",
+			"request": {
+				"url": "",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
